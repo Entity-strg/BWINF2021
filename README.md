@@ -1,1 +1,1 @@
-# BWINF2021
+Tasks for the "Bundeswettbewerb für Informatik"
